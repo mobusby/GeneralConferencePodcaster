@@ -7,3 +7,4 @@ Automate the process of pushing individual talks from the General Conferences of
 4. Create a single podcast episode: `$ python publish_talk.py [talk_url] [mp3_url]`
 5. Batch out several podcast episodes by creating a list of entries in a text file, where each line is `[talk_url] [mp3_url]`, then `$ python publish_list.py [urlList.txt]`
 
+*Free software under the BSD License. Code created with the help of Gemini 3.6 Flash.*
